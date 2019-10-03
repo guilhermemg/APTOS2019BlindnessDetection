@@ -2,3 +2,18 @@ __pycache__/
 .idea/*
 *.csv
 data/
+input/
+Best solution (Bronze medal - 163rd place)/base_dir/*
+
+bin/
+compiler_compat/
+conda-meta/
+etc/
+include/
+lib/
+share/
+ssl/
+x86_64-conda_cos6-linux-gnu/
+
+
+.ipynb_checkpoints/
